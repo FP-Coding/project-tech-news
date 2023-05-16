@@ -1,6 +1,7 @@
 from time import sleep
 from bs4 import BeautifulSoup
-from rich import print
+
+# from rich import print
 import requests
 
 
@@ -67,4 +68,5 @@ def scrape_news(html_content):
 
 # Requisito 5
 def get_tech_news(amount):
+    # base_url =
     """Seu código deve vir aqui"""
