@@ -48,3 +48,6 @@ def analyzer_menu():
         handle_menu_option(option)
     except (IndexError, ValueError):
         print("Opção inválida", file=sys.stderr)
+
+
+analyzer_menu()
