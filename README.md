@@ -47,7 +47,6 @@ Selecione uma das opções a seguir:
 - `Python`
 - `Pytest`
 - `Pymongo`
-- `parsel`
 - `BeatifulSoup`
 
 </details>
